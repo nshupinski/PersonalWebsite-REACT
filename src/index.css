@@ -18,7 +18,7 @@ code {
 
 /*Header*/
 #headerBackground {
-  background-image: url("../src/images/foggy_hills_background.jpg");
+  background-image: url("images/foggy_hills_background.jpg");
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
